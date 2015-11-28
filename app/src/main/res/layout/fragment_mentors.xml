@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.mrsaad.hackwestern.MentorsFragment"
+    android:orientation="vertical" >
+
+    <TextView android:id="@+id/loading_webView2"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:visibility="visible"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Loading..."
+        android:textSize="40sp" />
+
+    <WebView android:id="@+id/webView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

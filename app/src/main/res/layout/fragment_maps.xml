@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ssiv="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.mrsaad.hackwestern.MapsFragment">
+
+    <com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
+        android:id="@+id/mapView"
+        ssiv:assetName="bf-ac-1_v2.png"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/map1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Floor 1"/>
+
+        <Button
+            android:id="@+id/map2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Floor 2"/>
+
+        <Button
+            android:id="@+id/map3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Parking"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

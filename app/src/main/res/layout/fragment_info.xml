@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.mrsaad.hackwestern.InfoFragment"
+    android:background="@android:color/black">
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/website_button"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/devpost_button"
+        android:layout_marginBottom="30dp"
+        android:text="website"
+        android:textColor="@android:color/white"
+        android:background="@drawable/my_button"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/devpost_button"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="prizes / devpost"
+        android:textColor="@android:color/white"
+        android:background="@drawable/my_button"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/showcase_button"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/devpost_button"
+        android:layout_marginTop="30dp"
+        android:text="available tech"
+        android:textColor="@android:color/white"
+        android:background="@drawable/my_button"
+        android:textAllCaps="false"/>
+
+</RelativeLayout>

@@ -1,0 +1,254 @@
+{
+    "sponsors":{
+        "partners":[
+            {
+                "name": "Western Faculty of Science",
+                "logo": "science",
+                "info": "some info",
+                "website": "http://www.uwo.ca/sci"
+            },
+            {
+                "name": "Western Department of Computer Science",
+                "logo": "csd-color",
+                "info": "some info",
+                "website": "http://www.csd.uwo.ca/"
+            },
+            {
+                "name": "Western Faculty of Engineering",
+                "logo": "western_engineering",
+                "info": "some info",
+                "website": "http://www.eng.uwo.ca/"
+            },
+            {
+                "name": "Major League Hacking",
+                "logo": "mlh-color",
+                "info": "some info",
+                "website": "http://mlh.io"
+            }
+        ],
+    	"platinum":[
+    		{
+    			"name": "Digital Boundary Group",
+                "logo": "dbg",
+                "info": "some info",
+                "website": "https://www.digitalboundary.net/"
+            }
+        ],
+        "gold":[
+            {
+                "name": "Big Viking Games",
+                "logo": "bvg",
+                "info": "some info",
+                "website": "https://www.bigvikinggames.com/"
+            },
+            {
+                "name": "Tech Alliance",
+                "logo": "techalliance",
+                "info": "some info",
+                "website": "http://www.techalliance.ca/"
+            },
+            {
+                "name": "Info Tech Research Group",
+                "logo": "infotech",
+                "info": "some info",
+                "website": "http://www.infotech.com/"
+            },
+            {
+                "name": "Propel",
+                "logo": "propel",
+                "info": "some info",
+                "website": "http://propel.uwo.ca/"
+            }      
+        ],
+        "silver":[
+            {
+                "name": "City Wide Software Solutions",
+                "logo": "citywide",
+                "info": "some info",
+                "website": "https://www.citywidesolutions.com/"
+            },
+            {
+                "name": "London Economic Development Corporation",
+                "logo": "ledc",
+                "info": "some info",
+                "website": "http://www.ledc.com/"
+            },
+            {
+                "name": "Magnet Forensics",
+                "logo": "magnet",
+                "info": "some info",
+                "website": "https://www.magnetforensics.com"
+            },
+            {
+                "name": "Ontario Centres of Excellence",
+                "logo": "oce",
+                "info": "some info",
+                "website": "http://www.oce-ontario.org/"
+            },
+            {
+                "name": "Ontario Network of Entrepreneurs",
+                "logo": "one",
+                "info": "some info",
+                "website": "http://www.onebusiness.ca/"
+            },
+            {
+                "name": "Shopify",
+                "logo": "shopify",
+                "info": "some info",
+                "website": "https://www.shopify.ca/"
+            },
+            {
+                "name": "pwc",
+                "logo": "pwc",
+                "info": "some info",
+                "website": "http://www.pwc.com/ca/en/"
+            },
+            {
+                "name": "rhinoactive",
+                "logo": "redrhino",
+                "info": "some info",
+                "website": "http://red-rhino.com/"
+            }
+        ],
+        "bronze":[
+            {
+                "name": "Communitech",
+                "logo": "communitech",
+                "info": "some info",
+                "website": "https://www.communitech.ca/"
+            },
+            {
+                "name": "Race Roster",
+                "logo": "raceroster",
+                "info": "some info",
+                "website": "https://raceroster.com/"
+            },
+            {
+                "name": "SHARCNET",
+                "logo": "sharcnet",
+                "info": "some info",
+                "website": "https://www.sharcnet.ca/"
+            },
+            {
+                "name": "Particle",
+                "logo": "particle",
+                "info": "some info",
+                "website": "https://www.particle.io/"
+            },
+            {
+                "name": "Strategyzer",
+                "logo": "strategyzer",
+                "info": "some info",
+                "website": "https://strategyzer.com/"
+            },
+            {
+                "name": "Wolfram Alpha",
+                "logo": "wolfram",
+                "info": "some info",
+                "website": "https://www.wolframalpha.com/"
+            },
+            {
+                "name": "goviral",
+                "logo": "goviral",
+                "info": "some info",
+                "website": "http://diply.com/"
+            },
+            {
+                "name": "Soylent",
+                "logo": "soylent",
+                "info": "some info",
+                "website": "https://www.soylent.com/"
+            },
+            {
+                "name": "BITalino",
+                "logo": "bitalino",
+                "info": "some info",
+                "website": "http://www.bitalino.com"
+            },
+            {
+                "name": "PLUX",
+                "logo": "plux",
+                "info": "some info",
+                "website": "http://www.plux.info"
+            },
+            {
+                "name": "Green Brick Labs",
+                "logo": "greenbricklabs",
+                "info": "some info",
+                "website": "http://greenbricklabs.com/"
+            },
+            {
+                "name": "StarTech",
+                "logo": "startech",
+                "info": "some info",
+                "website": "http://www.startech.com/ca/"
+            },
+            {
+                "name": "Estimote",
+                "logo": "estimote",
+                "info": "some info",
+                "website": "http://estimote.com/"
+            },
+            {
+                "name": "Engine SevenFour",
+                "logo": "enginesevenfour",
+                "info": "some info",
+                "website": "http://www.engine74.com/"
+            },
+            {
+                "name": "Pebble",
+                "logo": "pebble",
+                "info": "some info",
+                "website": "https://www.pebble.com/"
+            },
+            {
+                "name": "CDKGlobal",
+                "logo": "cdk",
+                "info": "some info",
+                "website": "http://www.cdkglobal.com/"
+            },
+            {
+                "name": "Github",
+                "logo": "github",
+                "info": "some info",
+                "website": "https://github.com/"
+            },
+            {
+                "name": "Lani",
+                "logo": "lani",
+                "info": "some info",
+                "website": "https://lanilabs.com/"
+            },
+            {
+                "name": "General Dynamics Land System-Canada",
+                "logo": "glds",
+                "info": "some info",
+                "website": "http://www.gdlscanada.com/"
+            },
+            {
+                "name": "Thalmic Labs",
+                "logo": "thalmic",
+                "info": "some info",
+                "website": "https://www.myo.com/"
+            },
+            {
+                "name": "Google",
+                "logo": "google",
+                "info": "some info",
+                "website": "https://www.google.com/get/cardboard/"
+            },
+            {
+                "name": "Unilever",
+                "logo": "unilever",
+                "info": "some info",
+                "website": "http://www.unilever.ca/careers/"
+            },
+            {
+                "name": "Namecheap",
+                "logo": "namecheap",
+                "info": "some info",
+                "website": "https://www.namecheap.com/"
+            }
+        ]
+    }
+}

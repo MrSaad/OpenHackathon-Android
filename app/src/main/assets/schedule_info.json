@@ -1,0 +1,148 @@
+{
+    "November 27, 2015":[
+        {
+            "title": "Registration Open",
+            "info": "Meet at main reception to register. Please have your ID ready.",
+            "location": "Main Reception",
+            "time": "6:30 PM",
+            "notify": false
+        },
+        {
+            "title": "Dinner",
+            "info": "Nom nom",
+            "location": "Rm. 1142",
+            "time": "7:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Opening Ceremonies",
+            "info": "* Cue the trumpets *",
+            "location": "Rm. 1050",
+            "time": "9:30 PM",
+            "notify": false
+        },
+        {
+           "title": "Hacking Begins!",
+           "info": "Are you ready to change the world?",
+           "location": "-",
+           "time": "11:30 PM",
+           "notify": false
+        }
+    ],
+    "November 28, 2015":[
+        {
+            "title": "Yoga",
+            "info": "Stretch yo self before you wreck yo self",
+            "location": "Auditorium Stage",
+            "time": "7:00 AM",
+            "notify": false
+        },
+        {
+            "title": "Breakfast",
+            "info": "Arguably the most important meal of the day",
+            "location": "Rm. 1142",
+            "time": "8:00 AM",
+            "notify": false
+        },
+        {
+            "title": "Workshop",
+            "info": "Info-tech Research Group Workshop",
+            "location": "Rm. 2038",
+            "time": "10:30 AM",
+            "notify": false
+        },
+        {
+            "title": "Lunch",
+            "info": "Food! =D",
+            "location": "Rm. 1142",
+            "time": "12:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Workshop",
+            "info": "Digital Boundary Group Workshop: Hacking Apps with an Intercepting Proxy",
+            "location": "Rm. 1162",
+            "time": "1:30 PM",
+            "notify": false
+        },
+        {
+            "title": "Therapy Dogs!",
+            "info": "Nuff said",
+            "location": "Main Reception",
+            "time": "3:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Workshop",
+            "info": "TechAlliance Workshop",
+            "location": "Rm. 2038",
+            "time": "4:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Dinner by Propel",
+            "info": "Did you eat your vegetables?",
+            "location": "Rm. 1142",
+            "time": "7:00 PM",
+            "notify": false
+        },
+        {
+            "title": "High School Hackers meetup",
+            "info": "Don't worry, you're not in trouble",
+            "location": "Auditorium",
+            "time": "7:45 PM",
+            "notify": false
+        },
+        {
+            "title": "Cup Stacking",
+            "info": "Some say this is how the Eiffel Tower was built",
+            "location": "Main Reception",
+            "time": "9:00 PM",
+            "notify": false
+        }
+    ],
+    "November 29, 2015":[
+        {
+            "title": "Breakfast by TechAlliance",
+            "info": "Still the most important meal",
+            "location": "Rm. 1142",
+            "time": "7:00 AM",
+            "notify": false
+        },
+        {
+            "title": "Hacking Ends",
+            "info": "=(",
+            "location": "-",
+            "time": "10:00 AM",
+            "notify": false
+        },
+        {
+            "title": "Judging",
+            "info": "You will be judged.",
+            "location": "Rm. 1059",
+            "time": "11:30 AM",
+            "notify": false
+        },
+        {
+            "title": "Lunch",
+            "info": "More food! =D",
+            "location": "Rm. 1142",
+            "time": "1:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Closing Ceremonies",
+            "info": "The part where you see all the cool projects",
+            "location": "Rm. 1050",
+            "time": "2:00 PM",
+            "notify": false
+        },
+        {
+            "title": "Board busses",
+            "info": "We can't wait to see you next year!",
+            "location": "-",
+            "time": "3:30 PM",
+            "notify": false
+        }
+    ]
+}
